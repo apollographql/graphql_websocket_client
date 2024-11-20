@@ -1,3 +1,7 @@
+# Disclaimer
+
+This project is provided for reference and debugging purposes only.  While it can be used for support purposes, it is not covered by any support policy nor does it come with any guarantees.  It is not actively maintained and issues are not monitored.
+
 # Usage
 
 ```bash
